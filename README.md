@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phil-GP
 - 👀 I’m interested in development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on something cool
 - 📫 How to reach me? Here!
 
